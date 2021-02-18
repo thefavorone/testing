@@ -3,3 +3,7 @@
 3 tiga
 4 empat
 5 lima
+6 enam local
+7 tujuh local
+
+
